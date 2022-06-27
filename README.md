@@ -2,5 +2,5 @@
 
 |Heading|
 |---|
-|Yaswanth N|
-|[Insta](https://www.instagram.com/yaswanth9220/)|
+|[Yaswanth N](https://github.com/Yaswanthnilla)|
+
