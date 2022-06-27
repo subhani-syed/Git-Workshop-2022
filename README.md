@@ -12,7 +12,7 @@
 |[Kesava Reddy Dwarampudi](https://github.com/KesavaReddyD)|
 
 |[Shashank](https://github.com/shashank2101/Git-Workshop-2022)|
-|[Janaki Vallabhaneni ](https://github.com/Janaki60)|
+|[Charan](https://github.com/Sai-Charan-Bandari/Git-Workshop-2022)|
 
 
 
