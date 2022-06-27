@@ -8,6 +8,7 @@
 |[Koushik](https://github.com/koushik395)|
 |[Yaswanth N](https://github.com/Yaswanthnilla)|
 |[Yaswanth Modepalli](https://github.com/Yaswanth14)|
+|[Shashank](https://github.com/shashank2101/Git-Workshop-2022)|
 |[nandini savaram](https://github.com/savaramnandini)|
 |[Vidhvesh Changalasetty](https://github.com/vidhvesh)|
 |[Kesava Reddy Dwarampudi](https://github.com/KesavaReddyD)|
@@ -20,7 +21,6 @@
 |[Janaki Vallabhaneni ](https://github.com/Janaki60)|
 |[Dharani ](https://github.com/PolukondaDharani)|
 |[Nandini ](https://github.com/savaramnandini)|
-
 
 
 <h4 align="center">Gayatri Vidya Parishad College of Engineering</h4>
