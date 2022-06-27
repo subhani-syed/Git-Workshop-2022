@@ -10,6 +10,7 @@
 |[Yaswanth Modepalli](https://github.com/Yaswanth14)|
 |[Vidhvesh Changalasetty](https://github.com/vidhvesh)|
 |[Kesava Reddy Dwarampudi](https://github.com/KesavaReddyD)|
+|[nandini](https://github.com/savaramnandini)|
 |[Devi](https://github.com/SatyaNagaDevi07)|
 |[Shashank](https://github.com/shashank2101/Git-Workshop-2022)|
 |[Nandy](https://github.com/savaramnandini)|
