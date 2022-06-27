@@ -4,6 +4,7 @@
 
 | Name |
 |------|
+|[CHINTADA DEEPAK](https://github.com/chintadadeepak)|
 |[Koushik](https://github.com/koushik395)|
 |[Yaswanth N](https://github.com/Yaswanthnilla)|
 |[Yaswanth Modepalli](https://github.com/Yaswanth14)|
