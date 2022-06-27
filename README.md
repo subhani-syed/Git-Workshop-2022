@@ -10,19 +10,11 @@
 |------|
 |[Yaswanth Modepalli](https://github.com/Yaswanth14)|
 |[Kesava Reddy Dwarampudi](https://github.com/KesavaReddyD)|
+
 |[Shashank](https://github.com/shashank2101/Git-Workshop-2022)|
-|[VETLA PAVAN KALYAN](https://github.com/v20131a4463) |
 |[Janaki Vallabhaneni ](https://github.com/Janaki60)|
-|[Dharani ](https://github.com/PolukondaDharani)|
 
-
-
-
-
-<h
-
-
-
+|[Nandy](https://github.com/savaramnandini)|
 
 
 <h4 align="center">Gayatri Vidya Parishad College of Engineering</h4>
