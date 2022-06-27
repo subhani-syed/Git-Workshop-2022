@@ -3,4 +3,4 @@
 |Heading|
 |---|
 |Yaswanth N|
-|[git hub](https://www.instagram.com/yaswanth9220/)|
+|[Insta](https://www.instagram.com/yaswanth9220/)|
