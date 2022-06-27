@@ -16,6 +16,7 @@
 |[VETLA PAVAN KALYAN](https://github.com/v20131a4463) |
 |[Janaki Vallabhaneni ](https://github.com/Janaki60)|
 |[Dharani ](https://github.com/PolukondaDharani)|
+|[Nandini ](https://github.com/savaramnandini)|
 
 
 <h4 align="center">Gayatri Vidya Parishad College of Engineering</h4>
