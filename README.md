@@ -1,19 +1,24 @@
-<h1 align="center">Git Workshop 2022</h1>
+# Git Workshop-2022
 
-<p align="center"><img width="20%" src = "https://github.com/gdsc-gvp/.github/blob/main/profile/assets/gdsc-logo-animation.gif"></p>
-<p align="center"><img width ="45%" src="https://github.com/gdsc-gvp/.github/blob/main/profile/assets/gdsc.png"></p> 
+## Contributors List 💖
 
-
-## Contributors List 💖 	:grinning:
 
 | Name |
 |------|
+|[Koushik](https://github.com/koushik395)|
+|[Yaswanth N](https://github.com/Yaswanthnilla)|
 |[Yaswanth Modepalli](https://github.com/Yaswanth14)|
+|[Vidhvesh Changalasetty](https://github.com/vidhvesh)|
 |[Kesava Reddy Dwarampudi](https://github.com/KesavaReddyD)|
 |[nandini](https://github.com/savaramnandini)|
-
+|[Devi](https://github.com/SatyaNagaDevi07)|
 |[Shashank](https://github.com/shashank2101/Git-Workshop-2022)|
-
+|[Nandy](https://github.com/savaramnandini)|
+|[Charan](https://github.com/Sai-Charan-Bandari/Git-Workshop-2022)|
+|[VETLA PAVAN KALYAN](https://github.com/v20131a4463) |
+|[Janaki Vallabhaneni ](https://github.com/Janaki60)|
+|[Dharani ](https://github.com/PolukondaDharani)|
+|[Nandini ](https://github.com/savaramnandini)|
 
 
 
