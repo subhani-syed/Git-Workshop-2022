@@ -10,8 +10,9 @@
 |------|
 |[Yaswanth Modepalli](https://github.com/Yaswanth14)|
 |[Kesava Reddy Dwarampudi](https://github.com/KesavaReddyD)|
-
+|[Devi](https://github.com/SatyaNagaDevi07)|
 |[Shashank](https://github.com/shashank2101/Git-Workshop-2022)|
+
 
 
 
