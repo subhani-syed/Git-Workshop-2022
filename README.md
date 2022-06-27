@@ -8,7 +8,7 @@
 
 | Name |
 |------|
-|[Yaswanth Modepalli](https://github.com/Yaswanth14)|
+|[CHINTADA DEEPAK](https://github.com/Yaswanth14)|
 
 
 
