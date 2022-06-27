@@ -1,4 +1,9 @@
-# Git Workshop-2022
+</p>
+<h1 align="center">GDSC GVP</h1>
+
+<p align="center"><img width="20%" src = "https://github.com/gdsc-gvp/.github/blob/main/profile/assets/gdsc-logo-animation.gif"></p>
+<p align="center"><img width ="45%" src="https://github.com/gdsc-gvp/.github/blob/main/profile/assets/gdsc.png"></p> 
+<h4 align="center">Gayatri Vidya Parishad College of Engineering</h4>
 
 ## Contributors List 💖
 
