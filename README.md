@@ -8,6 +8,7 @@
 |[Koushik](https://github.com/koushik395)|
 |[Yaswanth N](https://github.com/Yaswanthnilla)|
 |[Yaswanth Modepalli](https://github.com/Yaswanth14)|
+|[Subhani](https://github.com/subhani-syed)|
 |[Nireesha](https://github.com/Nireesha7979)|
 |[Shashank](https://github.com/shashank2101/Git-Workshop-2022)|
 |[nandini savaram](https://github.com/savaramnandini)|
