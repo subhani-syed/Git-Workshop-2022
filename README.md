@@ -16,6 +16,7 @@
 |[Charan](https://github.com/Sai-Charan-Bandari)|
 |[Subhani](https://github.com/subhani-syed)|
 |[Nireesha](https://github.com/Nireesha7979)|
+|[NavyaSri](https://github.com/NavyaSri-11)|
 |[Shashank](https://github.com/shashank2101/Git-Workshop-2022)|
 |[nandini savaram](https://github.com/savaramnandini)|
 |[Vidhvesh Changalasetty](https://github.com/vidhvesh)|
