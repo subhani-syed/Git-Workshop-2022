@@ -10,6 +10,7 @@
 |------|
 |[Yaswanth Modepalli](https://github.com/Yaswanth14)|
 
+|[Shashank](https://github.com/shashank2101/Git-Workshop-2022)|
 
 
 
