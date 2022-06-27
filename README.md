@@ -4,12 +4,15 @@
 <p align="center"><img width ="45%" src="https://github.com/gdsc-gvp/.github/blob/main/profile/assets/gdsc.png"></p> 
 
 
-## Contributors List 💖
+## Contributors List 💖 	:grinning:
 
 | Name |
 |------|
-|[CHINTADA DEEPAK](https://github.com/chintadadeepak)|
 
+|[CHINTADA DEEPAK](https://github.com/chintadadeepak)|
+|[Yaswanth Modepalli](https://github.com/Yaswanth14)|
+|[Kesava Reddy Dwarampudi](https://github.com/KesavaReddyD)|
+|[Shashank](https://github.com/shashank2101/Git-Workshop-2022)|
 
 
 
