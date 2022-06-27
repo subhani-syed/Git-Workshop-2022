@@ -1,13 +1,11 @@
-<h1 align="center">Git Workshop 2022</h1>
-
-<p align="center"><img width="20%" src = "https://github.com/gdsc-gvp/.github/blob/main/profile/assets/gdsc-logo-animation.gif"></p>
-<p align="center"><img width ="45%" src="https://github.com/gdsc-gvp/.github/blob/main/profile/assets/gdsc.png"></p> 
-
+# Git Workshop-2022
 
 ## Contributors List 💖 	:grinning:
 
+
 | Name |
 |------|
+|[Yaswanth N](https://github.com/Yaswanthnilla)|
 |[Yaswanth Modepalli](https://github.com/Yaswanth14)|
 |[Kesava Reddy Dwarampudi](https://github.com/KesavaReddyD)|
 |[Shashank](https://github.com/shashank2101/Git-Workshop-2022)|
@@ -32,3 +30,4 @@
   <a href="https://www.linkedin.com/company/gdsc-gvp"><img src="https://img.icons8.com/office/30/000000/linkedin.png"/></a>&nbsp;
    <a href="https://www.instagram.com/gdsc_gvp/"><img src="https://img.icons8.com/office/30/000000/instagram-new.png"/></a>&nbsp;
 </p>
+
