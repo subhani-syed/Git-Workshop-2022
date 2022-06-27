@@ -5,6 +5,7 @@
 
 | Name |
 |------|
+|[Koushik](https://github.com/koushik395)|
 |[Yaswanth N](https://github.com/Yaswanthnilla)|
 |[Yaswanth Modepalli](https://github.com/Yaswanth14)|
 |[Vidhvesh Changalasetty](https://github.com/vidhvesh)|
@@ -31,4 +32,3 @@
   <a href="https://www.linkedin.com/company/gdsc-gvp"><img src="https://img.icons8.com/office/30/000000/linkedin.png"/></a>&nbsp;
    <a href="https://www.instagram.com/gdsc_gvp/"><img src="https://img.icons8.com/office/30/000000/instagram-new.png"/></a>&nbsp;
 </p>
-
